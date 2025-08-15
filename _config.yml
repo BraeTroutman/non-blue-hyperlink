@@ -22,7 +22,7 @@
 title: This Hyperlink is Not Blue
 email: braetroutman@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  because why not green
+  because why not salmon
 baseurl: "/non-blue-hyperlink" # the subpath of your site, e.g. /blog
 url: "https://braetroutman.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  braetroutman
